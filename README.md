@@ -1,2 +1,1 @@
-# RaahilDigipet
- My personal websitre on github.
+# digiPet1-durham
